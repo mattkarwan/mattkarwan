@@ -9,6 +9,7 @@ I'm currently working as a freelance developer, but am looking for full-time emp
 * HTML
 * CSS/Sass
 * JavaScript
+* TypeScript
 * React
 
 ##
