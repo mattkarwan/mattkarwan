@@ -1,6 +1,5 @@
 ## Hi, my name is Matt Karwan! :wave:
-I'm a Frontend Developer from Melbourne.<br>
-I'm currently working as a freelance developer, but am looking for full-time employment opportunities!
+I'm a Frontend Developer from Melbourne.
 
 ##
 
